@@ -1,5 +1,5 @@
 # pages
-A repository for testing the migration of GitHub Pages to another organization. 
+A repository for testing the migration of the repository and GitHub Pages to another organization. 
 
 ## Links:
 
